@@ -1,0 +1,1 @@
+Solutions of Programming Assignments in [Algorithms: Design and Analysis, Part 1](https://class.coursera.org/algo-005)
