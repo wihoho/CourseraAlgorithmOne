@@ -18,6 +18,9 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CourseraAlgorithmOne" target="" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
