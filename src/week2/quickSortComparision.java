@@ -80,10 +80,6 @@ public class quickSortComparision {
 
     public static int  partition(int[] arr, int low, int high, int type){
 
-
-
-
-
         if(type == 1)
 
             swap(arr, low, high);
