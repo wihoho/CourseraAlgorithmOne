@@ -45,6 +45,7 @@ public class Test {
                     max = end;
 
                 cur++;
+                System.out.println("Line: " + cur);
             }
 
             // read the graph
